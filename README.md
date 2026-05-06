@@ -1,4 +1,4 @@
-# My Landing Page!
+# The Rock Paper Scissors Game!
 
 This is the repo for the Rock, Paper, Scissors game!
 
